@@ -1,0 +1,180 @@
+.columns {
+    display: flex;
+    flex-wrap: wrap;
+}
+.column {
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+/* Small devices */
+@media (max-width: 767px) {
+    .is-phone-0 {
+        display: none;
+    }
+    .is-phone-1 {
+        width: 8.33%;
+    }
+    .is-phone-2 {
+        width: 16.66%;
+    }
+    .is-phone-3 {
+        width: 25%;
+    }
+    .is-phone-4 {
+        width: 33.33%;
+    }
+    .is-phone-5 {
+        width: 41.66%;
+    }
+    .is-phone-6 {
+        width: 50%;
+    }
+    .is-phone-7 {
+        width: 58.33%;
+    }
+    .is-phone-8 {
+        width: 66.66%;
+    }
+    .is-phone-9 {
+        width: 75%;
+    }
+    .is-phone-10 {
+        width: 83.33%;
+    }
+    .is-phone-11 {
+        width: 91.66%;
+    }
+    .is-phone-12 {
+        width: 100%;
+    }
+ }
+
+/* Medium devices */
+@media (min-width: 768px) {
+    .is-tablet-0 {
+        display: none;
+    }
+    .is-tablet-1 {
+        width: 8.33%;
+    }
+    .is-tablet-2 {
+        width: 16.66%;
+    }
+    .is-tablet-3 {
+        width: 25%;
+    }
+    .is-tablet-4 {
+        width: 33.33%;
+    }
+    .is-tablet-5 {
+        width: 41.66%;
+    }
+    .is-tablet-6 {
+        width: 50%;
+    }
+    .is-tablet-7 {
+        width: 58.33%;
+    }
+    .is-tablet-8 {
+        width: 66.66%;
+    }
+    .is-tablet-9 {
+        width: 75%;
+    }
+    .is-tablet-10 {
+        width: 83.33%;
+    }
+    .is-tablet-11 {
+        width: 91.66%;
+    }
+    .is-tablet-12 {
+        width: 100%;
+    }
+ }
+
+/* Large devices */
+@media (min-width: 992px) {
+    .is-desktop-0 {
+        display: none;
+    } 
+    .is-desktop-1 {
+        width: 8.33%;
+    }
+    .is-desktop-2 {
+        width: 16.66%;
+    }
+    .is-desktop-3 {
+        width: 25%;
+    }
+    .is-desktop-4 {
+        width: 33.33%;
+    }
+    .is-desktop-5 {
+        width: 41.66%;
+    }
+    .is-desktop-6 {
+        width: 50%;
+    }
+    .is-desktop-7 {
+        width: 58.33%;
+    }
+    .is-desktop-8 {
+        width: 66.66%;
+    }
+    .is-desktop-9 {
+        width: 75%;
+    }
+    .is-desktop-10 {
+        width: 83.33%;
+    }
+    .is-desktop-11 {
+        width: 91.66%;
+    }
+    .is-desktop-12 {
+        width: 100%;
+    }
+ }
+
+/* Extra large devices */
+@media (min-width: 1200px) {
+    .is-fullhd-0 {
+        display: none;
+    } 
+    .is-fullhd-1 {
+        width: 8.33%;
+    }
+    .is-fullhd-2 {
+        width: 16.66%;
+    }
+    .is-fullhd-3 {
+        width: 25%;
+    }
+    .is-fullhd-4 {
+        width: 33.33%;
+    }
+    .is-fullhd-5 {
+        width: 41.66%;
+    }
+    .is-fullhd-6 {
+        width: 50%;
+    }
+    .is-fullhd-7 {
+        width: 58.33%;
+    }
+    .is-fullhd-8 {
+        width: 66.66%;
+    }
+    .is-fullhd-9 {
+        width: 75%;
+    }
+    .is-fullhd-10 {
+        width: 83.33%;
+    }
+    .is-fullhd-11 {
+        width: 91.66%;
+    }
+    .is-fullhd-12 {
+        width: 100%;
+    }
+ }
